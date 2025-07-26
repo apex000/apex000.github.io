@@ -10,5 +10,5 @@ skills:
 - SOLIDWORKS 
 - Mechanical Drawings 
 - Mechanical Design
-main-image: /project.webp 
+main-image: /vessel.png
 ---
