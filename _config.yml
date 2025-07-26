@@ -13,11 +13,12 @@ title: Loo Zhen Hunk's Portfolio # This is what shows up in the tab of the brows
 
 # Hero Section
 name: Loo Zhen Hunk
-headline: headline message
+headline: Mechanical Engineering Student 
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My passion for mechanical engineering is driven by a curiosity for how things work and how they can be improved. Through my studies and projects at RMIT and Taylors University, 
+  I've gained hands-on experience in advanced simulation (Ansys for FEA/CFD), manufacturing (CNC machining), and mechanical design. My leadership roles in student council 
+  and as a sports team captain have taught me how to manage a team, solve problems creatively, and communicate effectively. I'm looking for a chance to bring this blend of technical skills 
+  and team-oriented experience to the company.
 
 profile_image: ./assets/images/profile-image/image.png
 
